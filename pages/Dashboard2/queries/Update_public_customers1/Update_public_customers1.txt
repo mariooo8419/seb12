@@ -1,0 +1,1 @@
+UPDATE public.customers SET "name"= '{{tbl_customers.updatedRow.name}}', "company"= '{{tbl_customers.updatedRow.company}}', "phone"= '{{tbl_customers.updatedRow.phone}}' WHERE "customer_id"= {{tbl_customers.updatedRow.customer_id}};

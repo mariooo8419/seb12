@@ -1,0 +1,1 @@
+INSERT INTO public.customers ("name","company","phone") VALUES ('{{(tbl_customers.newRow || {}).name}}','{{(tbl_customers.newRow || {}).company}}','{{(tbl_customers.newRow || {}).phone}}')

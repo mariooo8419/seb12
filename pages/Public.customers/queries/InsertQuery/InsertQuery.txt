@@ -1,0 +1,8 @@
+INSERT INTO public."customers" (
+	"name",
+	"company",
+	"phone")
+VALUES (
+	'{{insert_form.formData.name}}',
+	'{{insert_form.formData.company}}',
+	'{{insert_form.formData.phone}}');
