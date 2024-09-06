@@ -29,6 +29,10 @@
     {
       "id": "Authentication2",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
