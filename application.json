@@ -28,39 +28,7 @@
   "pages": [
     {
       "id": "Authentication2",
-      "isDefault": false
-    },
-    {
-      "id": "Dashboard2",
-      "isDefault": false
-    },
-    {
-      "id": "Modules",
-      "isDefault": false
-    },
-    {
-      "id": "Content",
-      "isDefault": false
-    },
-    {
-      "id": "Dashboard",
       "isDefault": true
-    },
-    {
-      "id": "Page1",
-      "isDefault": false
-    },
-    {
-      "id": "Public.customers",
-      "isDefault": false
-    },
-    {
-      "id": "Public.customers2",
-      "isDefault": false
-    },
-    {
-      "id": "Page2",
-      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
